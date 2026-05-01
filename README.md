@@ -6,9 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar-upadhyay-9a2105285/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnuragKumar0429)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akupadhaya01@gmail.com)
 
 </div>
 
@@ -28,7 +28,7 @@ class AnuragKumarUpadhyay:
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing. 🚀")
-` ` `
+```
 
 ---
 
@@ -127,16 +127,16 @@ class AnuragKumarUpadhyay:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnuragKumar0429&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragKumar0429&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragKumar0429&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragKumar0429&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </div>
 
 ---
@@ -144,7 +144,7 @@ class AnuragKumarUpadhyay:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnuragKumar0429&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 </div>
 
 ---
@@ -155,14 +155,6 @@ class AnuragKumarUpadhyay:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AnuragKumar0429&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-```
-
-> ⚠️ **Note:** The triple backtick block inside the `About Me` section — remove the spaces I added in `` ` ` ` `` and make it ` ``` ` (no spaces). GitHub's markdown renderer needs proper closing fences.
-
-**Only 3 things to change:**
-- `YOUR_GITHUB_USERNAME` → replace all 5 occurrences with your actual username
-- LinkedIn URL → your profile link
-- `your@email.com` → your real email
